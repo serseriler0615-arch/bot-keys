@@ -1,5 +1,6 @@
 {
-    "GURKAN": 30,
-    "ARKADAS_KEYI": 1
-    
+  "aktif_keyler": {
+    "VALHALLA-1234-TEST": 30,
+    "BASKA-BIR-KEY": 7
+  }
 }
